@@ -1,0 +1,15 @@
+{
+    "series":  [
+
+               ],
+    "movies":  [
+                   {
+                       "description":  "Four Charlie Chaplin shorts from 1917: The Adventurer, The Cure, Easy Street and The Immigrant. Technical playback test; production rights verification pending.",
+                       "stream":  "https://archive.org/download/charlie_chaplin_film_fest/charlie_chaplin_film_fest.mp4",
+                       "poster":  "",
+                       "year":  "1938",
+                       "genre":  "Comedy, Classic",
+                       "title":  "Charlie Chaplin Festival"
+                   }
+               ]
+}
